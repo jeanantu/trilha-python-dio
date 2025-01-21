@@ -1,6 +1,6 @@
 sorteio = {1, 23}
 
-sorteio.add(25)  # {1, 23, 25}
+sorteio.add(25)  # {1, 23, 25}  ### similar ao append
 print(sorteio)
 
 sorteio.add(42)  # {1, 23, 25, 42}
