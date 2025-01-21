@@ -11,5 +11,5 @@ print(letras)
 numeros = tuple([1, 2, 3, 4])
 print(numeros)
 
-pais = ("Brasil",)   ### em tupla se coloca "," ao final para o interpretador ter a certeza que se trata de uma dupla
+pais = ("Brasil",)   ###  em tupla se coloca "," ao final para o interpretador ter a certeza que se trata de uma dupla
 print(pais)
