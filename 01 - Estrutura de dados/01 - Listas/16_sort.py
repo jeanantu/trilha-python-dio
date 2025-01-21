@@ -7,7 +7,7 @@ linguagens.sort(reverse=True)  # ["python", "js", "java", "csharp", "c"]
 print(linguagens)
 
 linguagens = ["python", "js", "c", "java", "csharp"]
-linguagens.sort(key=lambda x: len(x))  # ["c", "js", "java", "python", "csharp"]
+linguagens.sort(key=lambda x: len(x))  # ["c", "js", "java", "python", "csharp"]  lambda eh uma funcao anonima e x é o argumento
 print(linguagens)
 
 linguagens = ["python", "js", "c", "java", "csharp"]
