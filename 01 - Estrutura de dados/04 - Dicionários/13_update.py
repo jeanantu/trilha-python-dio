@@ -1,3 +1,5 @@
+
+#### atualiza dicionario caso chave ja exista e faz incremento caso chave nao exista 
 contatos = {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}}
 
 contatos.update({"guilherme@gmail.com": {"nome": "Gui"}})
