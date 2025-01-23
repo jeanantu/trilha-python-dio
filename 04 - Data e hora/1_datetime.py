@@ -7,6 +7,7 @@ print(date.today())
 
 data_hora = datetime(2023, 7, 10)
 print(data_hora)
+print("-------")
 print(datetime.today())
 
 hora = time(10, 20, 0)
